@@ -1,5 +1,5 @@
 //  PROGRAM 1:  Data Structures - CSC-328                                 //
-//  GROUP MEMBERS:  Hailey Maimone, Ricky Peddicord, Kelli Huff           //
+//   Hailey Maimone                                                       //
 //                                                                        //
 //  PROGRAM SYNOPSIS:                                                     //
 //			This program demonstrates a singly linked list set class.     //
